@@ -1,6 +1,6 @@
 # Ingredible-Mobile-App
 
-Ingredible is an easy-to-use mobile application that scans the images of ingredient list in a food product and filters out the potential carcinogenic or harmful products based on FDA recommendations and personal allergies and preferences and also recommends similar healthy products to the users.
+Ingredible is an easy-to-use mobile application that scans the images of ingredient list in a food product and filters out the potential carcinogenic or harmful products based on FDA recommendations and, personal allergies and preferences and also recommends similar healthy products to the users.
 
 To run the protoype of the app follow the step by step guide given below:
 
